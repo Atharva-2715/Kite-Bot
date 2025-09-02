@@ -1,7 +1,5 @@
 # Kite Bot
 
-# 📈 Zerodha Trading Bot
-
 A simple and powerful trading bot built using **Zerodha’s Kite Connect SDK**.  
 This bot lets you execute trades right from your terminal with **five core tools**:
 
@@ -13,13 +11,13 @@ This bot lets you execute trades right from your terminal with **five core tools
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ Direct integration with **Zerodha Kite Connect**  
-- ✅ Lightweight & easy to run  
-- ✅ Supports **market & limit orders**  
-- ✅ Simple CLI commands for fast execution  
-- ✅ Extendable for advanced trading strategies  
+-  Direct integration with **Zerodha Kite Connect**  
+-  Lightweight & easy to run  
+-  Supports **market & limit orders**  
+-  Simple CLI commands for fast execution  
+-  Extendable for advanced trading strategies  
 
 ---
 
@@ -27,6 +25,6 @@ This bot lets you execute trades right from your terminal with **five core tools
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/zerodha-trading-bot.git
+git clone https://github.com/Atharva-2715/Kite-Bot.git
 cd zerodha-trading-bot
 
