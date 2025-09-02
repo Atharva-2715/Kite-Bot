@@ -1,15 +1,32 @@
-# tradingbot
+# Kite Bot
 
-To install dependencies:
+# 📈 Zerodha Trading Bot
 
+A simple and powerful trading bot built using **Zerodha’s Kite Connect SDK**.  
+This bot lets you execute trades right from your terminal with **five core tools**:
+
+- 🟢 **Buy** – Place a buy order  
+- 🔴 **Sell** – Place a sell order  
+- 📊 **Display** – View your current positions/holdings  
+- 💰 **Buy at Price** – Place a buy order at a specific price  
+- 💸 **Sell at Price** – Place a sell order at a specific price  
+
+---
+
+## ✨ Features
+
+- ✅ Direct integration with **Zerodha Kite Connect**  
+- ✅ Lightweight & easy to run  
+- ✅ Supports **market & limit orders**  
+- ✅ Simple CLI commands for fast execution  
+- ✅ Extendable for advanced trading strategies  
+
+---
+
+## 🔧 Installation
+
+### 1. Clone the repository
 ```bash
-bun install
-```
+git clone https://github.com/your-username/zerodha-trading-bot.git
+cd zerodha-trading-bot
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.2.20. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
